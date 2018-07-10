@@ -4,7 +4,7 @@
  
 **Today's Progress** : I have setup all the things I needed to complete this challenge and also completed chosing the projects I will work on .
 
-**Thoughts** : Hope this will be exiciting ,will help me in learning Machine Learning in a more effective way .
+**Thoughts** : Hope this will be exiciting , and will help me in learning Machine Learning in a more effective way as I explain the concepts learned in a musician and artist friendly manner .
 
 ## Day 1 : July 10 , 2018
 
