@@ -8,9 +8,9 @@
 
 ## Day 002 : July 11 , 2018
 
-**Today's Progress** : I have completed a medium article explaining machine learning for musicians and artist. data preparation for kaggle ml problem .
+**Today's Progress** : I have completed a medium article explaining machine learning for musicians and artist. Got a dataset for diabetes.  Studied  Azure Machine Learning Studio.
 
-**Thoughts** : It is really challenging and many error occured , but I have debuged them . It was really fun .
+**Thoughts** : It's getting more exciting and tasking than I thought initially. 
 
 
 **Link of Work:**   [Commit](https://github.com/LordSomen/100DaysOfML/commit/a09148256d1561f5f9e5544ff3f64aacf0d24f43)
