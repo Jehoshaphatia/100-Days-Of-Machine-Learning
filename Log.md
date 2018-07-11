@@ -8,7 +8,7 @@
 
 ## Day 002 : July 11 , 2018
 
-**Today's Progress** : I have completed data preparation for kaggle ml problem .
+**Today's Progress** : I have completed a medium article explaining machine learning for musicians and artist. data preparation for kaggle ml problem .
 
 **Thoughts** : It is really challenging and many error occured , but I have debuged them . It was really fun .
 
