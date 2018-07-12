@@ -17,9 +17,9 @@
 
 ## Day 003 : July 12 , 2018
 
-**Today's Progress** : I have completed a medium article explaining machine learning for musicians and artist. Got a dataset for diabetes.  Studied  Azure Machine Learning Studio.
+**Today's Progress** : Wrote a medium article introducing musicians and artist to a tool that allow them to use machine learning in their work without writing a single line of code. Created a Regression Model in Azure Machine Learning Studio. 
 
-**Thoughts** : It's getting more exciting and tasking than I thought initially. 
+**Thoughts** : It's getting more exciting. 
 
 
 **Link of Work:**   [Commit](https://github.com/LordSomen/100DaysOfML/commit/a09148256d1561f5f9e5544ff3f64aacf0d24f43)
