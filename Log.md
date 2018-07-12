@@ -13,7 +13,7 @@
 **Thoughts** : It's getting more exciting and tasking than I thought initially. 
 
 
-**Link of Work:**   [Commit](https://github.com)
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-002-df3530e53fa3)
 
 ## Day 003 : July 12 , 2018
 
