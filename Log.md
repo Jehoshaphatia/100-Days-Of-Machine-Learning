@@ -15,4 +15,13 @@
 
 **Link of Work:**   [Commit](https://github.com/LordSomen/100DaysOfML/commit/a09148256d1561f5f9e5544ff3f64aacf0d24f43)
 
+## Day 003 : July 12 , 2018
+
+**Today's Progress** : I have completed a medium article explaining machine learning for musicians and artist. Got a dataset for diabetes.  Studied  Azure Machine Learning Studio.
+
+**Thoughts** : It's getting more exciting and tasking than I thought initially. 
+
+
+**Link of Work:**   [Commit](https://github.com/LordSomen/100DaysOfML/commit/a09148256d1561f5f9e5544ff3f64aacf0d24f43)
+
 
