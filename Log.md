@@ -6,6 +6,8 @@
 
 **Thoughts** : Hope this will be exiciting , and will help me in learning Machine Learning in a more effective way as I explain the concepts learned in a musician and artist friendly manner .
 
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-001-54a38a6b55e6)
+
 ## Day 002 : July 11 , 2018
 
 **Today's Progress** : I have completed a medium article explaining machine learning for musicians and artist. Got a dataset for diabetes.  Studied  Azure Machine Learning Studio.
