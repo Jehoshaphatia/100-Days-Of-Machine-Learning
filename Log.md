@@ -13,7 +13,7 @@
 **Thoughts** : It's getting more exciting and tasking than I thought initially. 
 
 
-**Link of Work:**   [Commit](https://github.com/LordSomen/100DaysOfML/commit/a09148256d1561f5f9e5544ff3f64aacf0d24f43)
+**Link of Work:**   [Commit](https://github.com)
 
 ## Day 003 : July 12 , 2018
 
@@ -22,6 +22,6 @@
 **Thoughts** : It's getting more exciting. 
 
 
-**Link of Work:**   [Commit](https://github.com/LordSomen/100DaysOfML/commit/a09148256d1561f5f9e5544ff3f64aacf0d24f43)
+**Link of Work:**   [Commit](https://github.com)
 
 
