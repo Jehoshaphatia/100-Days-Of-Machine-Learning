@@ -33,7 +33,7 @@
 **Thoughts** : It's getting more exciting. 
 
 
-**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-003-56eda18153ca)
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-004-eb83852cba5b)
 
 
 
