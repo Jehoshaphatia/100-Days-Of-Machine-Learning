@@ -26,4 +26,14 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-003-56eda18153ca)
 
+## Day 004 : July 13 , 2018
+
+**Today's Progress** : Wrote a medium article introducing musicians and artist to a tool that allow them to use machine learning in their work without writing a single line of code. Created a Regression Model in Azure Machine Learning Studio. 
+
+**Thoughts** : It's getting more exciting. 
+
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-003-56eda18153ca)
+
+
 
