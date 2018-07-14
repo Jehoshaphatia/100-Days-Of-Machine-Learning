@@ -33,5 +33,14 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-004-eb83852cba5b)
 
+## Day 005 : July 13 , 2018
+
+**Today's Progress** : Wrote a medium article exploring Wekinator. Created a Classification Model Model in Azure Machine Learning Studio. 
+
+**Thoughts** : It's getting more exciting. 
+
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-004-eb83852cba5b)
+
 
 
