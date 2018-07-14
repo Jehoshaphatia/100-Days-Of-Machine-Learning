@@ -35,7 +35,7 @@
 
 ## Day 005 : July 13 , 2018
 
-**Today's Progress** : Wrote a medium article exploring Wekinator. Created a Classification Model Model in Azure Machine Learning Studio. 
+**Today's Progress** : Wrote a medium article explaining supervised learning classification technique. Prepred Diabetes dataset for classification. 
 
 **Thoughts** : It's getting more exciting. 
 
