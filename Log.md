@@ -33,7 +33,7 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-004-eb83852cba5b)
 
-## Day 005 : July 13 , 2018
+## Day 005 : July 14 , 2018
 
 **Today's Progress** : Wrote a medium article explaining supervised learning classification technique. Prepred Diabetes dataset for classification. 
 
