@@ -42,5 +42,16 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-005-eb83852cba5b)
 
+## Day 006 : July 14 , 2018
+
+**Today's Progress** : Wrote a medium article explaining binary and multiclass classification for musicians and artist. Prepred Diabetes dataset for classification. 
+
+**Thoughts** : It's getting more exciting. 
+
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-005-eb83852cba5b)
+
+
+
 
 
