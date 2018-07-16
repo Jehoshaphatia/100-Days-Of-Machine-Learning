@@ -50,6 +50,13 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-006-c132f41dfc39)
 
+## Day 007 : July 14 , 2018
+
+**Today's Progress** : Wrote a medium article about Support Vector Machine and Naive Bayes as a continuation on Common Classification Algorithms. 
+
+**Thoughts** : It's getting more exciting. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-006-c132f41dfc39)
 
 
 
