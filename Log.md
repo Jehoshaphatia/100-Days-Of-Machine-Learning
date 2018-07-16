@@ -52,7 +52,7 @@
 
 ## Day 007 : July 14 , 2018
 
-**Today's Progress** : Wrote a medium article about Support Vector Machine and Naive Bayes as a continuation on Common Classification Algorithms. 
+**Today's Progress** : Wrote a medium article about Support Vector Machine and Naive Bayes as a continuation on Common Classification Algorithms. Trained a sentiment classifier.  
 
 **Thoughts** : It's getting more exciting. 
 
