@@ -30,7 +30,6 @@
 
 **Thoughts** : It's getting more exciting. 
 
-
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-004-eb83852cba5b)
 
 ## Day 005 : July 14 , 2018
@@ -40,7 +39,7 @@
 **Thoughts** : It's getting more exciting. 
 
 
-**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-005-eb83852cba5b)
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-005-75ac5567744a)
 
 ## Day 006 : July 14 , 2018
 
@@ -49,7 +48,7 @@
 **Thoughts** : It's getting more exciting. 
 
 
-**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-005-eb83852cba5b)
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-006-c132f41dfc39)
 
 
 
