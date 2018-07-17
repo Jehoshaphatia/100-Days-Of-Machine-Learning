@@ -52,7 +52,7 @@
 
 ## Day 007 : July 16 , 2018
 
-**Today's Progress** : Wrote a medium article about Support Vector Machine and Naive Bayes as a continuation on Common Classification Algorithms. Trained a sentiment classifier.  
+**Today's Progress** : Wrote a medium article about Support Vector Machine and Naive Bayes as a continuation of Common Classification Algorithms. Trained a sentiment classifier.  
 
 **Thoughts** : It's getting more exciting. 
 
@@ -60,7 +60,7 @@
 
 ## Day 008 : July 17 , 2018
 
-**Today's Progress** : Wrote a medium article about Neural Network and Decision Tree as a continuation on Common Classification Algorithms. Trained a Terrain classifier.  
+**Today's Progress** : Wrote a medium article about Neural Network and Decision Tree as a continuation of Common Classification Algorithms. Trained a Terrain classifier.  
 
 **Thoughts** : It's getting more exciting, I am learning more new things. 
 
