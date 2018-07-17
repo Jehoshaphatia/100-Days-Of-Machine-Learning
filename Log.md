@@ -41,7 +41,7 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-005-75ac5567744a)
 
-## Day 006 : July 14 , 2018
+## Day 006 : July 15 , 2018
 
 **Today's Progress** : Wrote a medium article explaining binary and multiclass classification for musicians and artist. Prepred Diabetes dataset for classification. 
 
@@ -50,7 +50,15 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-006-c132f41dfc39)
 
-## Day 007 : July 14 , 2018
+## Day 007 : July 16 , 2018
+
+**Today's Progress** : Wrote a medium article about Support Vector Machine and Naive Bayes as a continuation on Common Classification Algorithms. Trained a sentiment classifier.  
+
+**Thoughts** : It's getting more exciting. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-007-b06e95862153)
+
+## Day 008 : July 17 , 2018
 
 **Today's Progress** : Wrote a medium article about Support Vector Machine and Naive Bayes as a continuation on Common Classification Algorithms. Trained a sentiment classifier.  
 
