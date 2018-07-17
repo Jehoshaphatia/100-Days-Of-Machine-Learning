@@ -60,11 +60,11 @@
 
 ## Day 008 : July 17 , 2018
 
-**Today's Progress** : Wrote a medium article about Support Vector Machine and Naive Bayes as a continuation on Common Classification Algorithms. Trained a sentiment classifier.  
+**Today's Progress** : Wrote a medium article about Neural Network and Decision Tree as a continuation on Common Classification Algorithms. Trained a Terrain classifier.  
 
-**Thoughts** : It's getting more exciting. 
+**Thoughts** : It's getting more exciting, I am learning more new things. 
 
-**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-007-b06e95862153)
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-008-7e0a520424c6)
 
 
 
