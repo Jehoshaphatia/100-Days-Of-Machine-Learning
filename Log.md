@@ -66,6 +66,15 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-008-7e0a520424c6)
 
+## Day 009 : July 18 , 2018
+
+**Today's Progress** : Wrote a medium article about Neural Network and Decision Tree as a continuation of Common Classification Algorithms. Trained a Terrain classifier.  
+
+**Thoughts** : It's getting more exciting, I am learning more new things. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-008-7e0a520424c6)
+
+
 
 
 
