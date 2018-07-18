@@ -68,7 +68,7 @@
 
 ## Day 009 : July 18 , 2018
 
-**Today's Progress** : Wrote a medium article about features and lables. Used Naive Bayes to classify emails by author. 
+**Today's Progress** : Wrote a medium article about features and labels. Used Naive Bayes to classify emails by author. 
 
 **Thoughts** :I am learning more new things. 
 
