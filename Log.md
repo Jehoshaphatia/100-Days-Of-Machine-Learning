@@ -70,7 +70,7 @@
 
 **Today's Progress** : Wrote a medium article about features and lables. Used Naive Bayes to classify emails by author. 
 
-**Thoughts** : It's getting more exciting, I am learning more new things. 
+**Thoughts** :I am learning more new things. 
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-009-5696a48f6add)
 
