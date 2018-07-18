@@ -72,7 +72,7 @@
 
 **Thoughts** : It's getting more exciting, I am learning more new things. 
 
-**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-008-7e0a520424c6)
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-009-5696a48f6add)
 
 
 
