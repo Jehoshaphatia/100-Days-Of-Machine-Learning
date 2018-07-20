@@ -82,6 +82,15 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-010-d29798ebfd8e)
 
+## Day 011 : July 19 , 2018
+
+**Today's Progress** :  Wrote a medium article about Bagged & Boosted Decision Trees and Discriminant Analysis as a continuation of Common Classification Algorithms. Trained a Terrain classifier with SVM.  
+
+**Thoughts** : I am learning more new things. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-010-d29798ebfd8e)
+
+
 
 
 
