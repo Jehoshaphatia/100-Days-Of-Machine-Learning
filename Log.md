@@ -88,7 +88,7 @@
 
 **Thoughts** : I am learning more new things. 
 
-**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-010-d29798ebfd8e)
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-011-55454477dd99)
 
 
 
