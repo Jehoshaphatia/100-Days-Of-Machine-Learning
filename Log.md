@@ -84,7 +84,7 @@
 
 ## Day 011 : July 20 , 2018
 
-**Today's Progress** :  Wrote a medium article about Bagged & Boosted Decision Trees and Discriminant Analysis as a continuation of Common Classification Algorithms. Trained a Terrain classifier with SVM.  
+**Today's Progress** :  Wrote a medium article exploring support Vector Machines(SVM) on a deeper level. Trained a Terrain classifier with SVM.  
 
 **Thoughts** : I am learning more new things. 
 
