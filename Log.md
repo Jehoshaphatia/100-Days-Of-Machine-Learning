@@ -92,7 +92,7 @@
 
 ## Day 012 : July 21 , 2018
 
-**Today's Progress** :  Wrote a medium article exploring Support Vector Machines(SVM) on a deeper level. Used Support Vector Machines(SVM) to classify emails by author.  
+**Today's Progress** :  Wrote a medium article about common regression algorithms. Started exploring audio signal processing for musical applications.   
 
 **Thoughts** : I am learning more new things and my knowledge is getting wider. 
 
