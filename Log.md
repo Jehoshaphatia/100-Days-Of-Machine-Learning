@@ -108,7 +108,7 @@
 
 ## Day 014 : July 23 , 2018
 
-**Today's Progress** :  Wrote a medium article about common regression algorithms. Coded and visualized a simple and complex Sinusoid.   
+**Today's Progress** :  Wrote a medium article about common regression algorithms. Coded and visualized a DFT, simple and complex Sinusoid.   
 
 **Thoughts** : I am learning more new things and my knowledge is getting wider. 
 
