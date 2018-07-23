@@ -104,7 +104,7 @@
 
 **Thoughts** : I am learning more new things and my knowledge is getting wider. 
 
-**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-012-15e84b8928df)
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-013-465ac303be0)
 
 ## Day 014 : July 23 , 2018
 
@@ -112,7 +112,7 @@
 
 **Thoughts** : I am learning more new things and my knowledge is getting wider. 
 
-**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-012-15e84b8928df)
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-014-bca6e834b202)
 
 
 
