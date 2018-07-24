@@ -116,7 +116,7 @@
 
 ## Day 015 : July 24 , 2018
 
-**Today's Progress** :  Wrote a medium article about improvig model acuracy and performnace. Continue exploring audio signal processing for musical applications
+**Today's Progress** :  Wrote a medium article about improving model accuracy and performance. Continued with the exploration of audio signal processing for musical applications. 
 
 **Thoughts** : I am learning more new things and my knowledge is getting wider. 
 
