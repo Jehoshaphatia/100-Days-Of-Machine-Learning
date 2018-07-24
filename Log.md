@@ -114,6 +114,14 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-014-bca6e834b202)
 
+## Day 015 : July 24 , 2018
+
+**Today's Progress** :  Wrote a medium article about common regression algorithms. Coded and visualized a DFT, simple and complex Sinusoid.   
+
+**Thoughts** : I am learning more new things and my knowledge is getting wider. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-014-bca6e834b202)
+
 
 
 
