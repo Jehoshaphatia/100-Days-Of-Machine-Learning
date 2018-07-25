@@ -122,6 +122,14 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-015-ffef23cba289)
 
+## Day 016 : July 25 , 2018
+
+**Today's Progress** :  Wrote a medium article about improving model accuracy and performance. Continued with the exploration of audio signal processing for musical applications. 
+
+**Thoughts** : I am learning more new things and my knowledge is getting wider. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-015-ffef23cba289)
+
 
 
 
