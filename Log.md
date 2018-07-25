@@ -128,7 +128,7 @@
 
 **Thoughts** : I am learning more new things and my knowledge is getting wider. 
 
-**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-015-ffef23cba289)
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-016-e2b607db1844)
 
 
 
