@@ -138,6 +138,14 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-017-9853f0ab8b43)
 
+## Day 018 : July 27 , 2018
+
+**Today's Progress** :  Wrote a medium article about unsupervised learning techniques. Continued with the exploration of audio signal processing for musical applications. 
+
+**Thoughts** : I am learning more new things and my knowledge is getting wider. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-017-9853f0ab8b43)
+
 
 
 
