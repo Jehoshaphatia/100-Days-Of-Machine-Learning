@@ -146,6 +146,14 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-018-84ee2c76109f)
 
+## Day 019 : July 27 , 2018
+
+**Today's Progress** :  Wrote a medium article about common hard clustering algorithms. Still continued with the exploration of audio signal processing for musical applications. 
+
+**Thoughts** : I am learning more new things by trying to blog about it. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-018-84ee2c76109f)
+
 
 
 
