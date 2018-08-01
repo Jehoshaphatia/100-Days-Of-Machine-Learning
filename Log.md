@@ -178,6 +178,14 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-022-3d0714d9351e)
 
+## Day 023 : August 1 , 2018
+
+**Today's Progress** :  Wrote a medium article about how machine learning can be used to make computer systems that are capable of autonomously generating new work of music or art. Continued with the exploration of audio signal processing for musical applications.
+
+**Thoughts** : I am learning more new things by trying to blog about it. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-022-3d0714d9351e)
+
 
 
 
