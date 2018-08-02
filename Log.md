@@ -188,7 +188,7 @@
 
 ## Day 024 : August 2 , 2018
 
-**Today's Progress** :  Wrote a medium article about Deep Learning. Continued with the exploration of audio signal processing for musical applications.
+**Today's Progress** :  Wrote a medium article about how machine learning in the arts is different. Continued with the exploration of audio signal processing for musical applications.
 
 **Thoughts** : I am learning more new things by trying to blog about it. 
 
