@@ -186,6 +186,14 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-023-3dad010d377c)
 
+## Day 024 : August 2 , 2018
+
+**Today's Progress** :  Wrote a medium article about Deep Learning. Continued with the exploration of audio signal processing for musical applications.
+
+**Thoughts** : I am learning more new things by trying to blog about it. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-023-3dad010d377c)
+
 
 
 
