@@ -204,7 +204,7 @@
 
 ## Day 026 : August 4 , 2018
 
-**Today's Progress** :  Wrote a medium article about how machine learning in the arts is different. Got deeper with audio signal processing for musical applications.
+**Today's Progress** :  Wrote a medium article about how machine learning in the arts is different with emphasis on why having small training sets is not bad. Got deeper with audio signal processing for musical applications.
 
 **Thoughts** : I am learning more new things by trying to blog about it. 
 
