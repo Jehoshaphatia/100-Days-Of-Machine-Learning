@@ -218,6 +218,14 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-026-d82109f8367b)
 
+## Day 028 : August 6 , 2018
+
+**Today's Progress** :  Wrote a medium article about how machine learning in the arts is different with an emphasis on why having small training sets is not bad. Continued with the exploration of audio signal processing for musical applications.
+
+**Thoughts** : I am learning more new things by trying to blog about it. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-026-d82109f8367b)
+
 
 
 
