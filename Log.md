@@ -226,6 +226,14 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-028-254ab8bec641)
 
+## Day 029 : August 7 , 2018
+
+**Today's Progress** :  Wrote a medium article about generating useful inputs for machine learning. Still exploring audio signal processing for musical applications.
+
+**Thoughts** : I am learning more new things by trying to blog about it. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-028-254ab8bec641)
+
 
 
 
