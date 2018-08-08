@@ -234,6 +234,14 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-029-bedb3a8ebb91)
 
+## Day 030 : August 8 , 2018
+
+**Today's Progress** :  Wrote a medium article about what makes a good feature. Still exploring audio signal processing for musical applications
+
+**Thoughts** : I am learning more new things by trying to blog about it. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-029-bedb3a8ebb91)
+
 
 
 
