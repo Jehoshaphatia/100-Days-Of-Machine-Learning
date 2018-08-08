@@ -236,7 +236,7 @@
 
 ## Day 030 : August 8 , 2018
 
-**Today's Progress** :  Wrote a medium article about what makes a good feature. Still exploring audio signal processing for musical applications
+**Today's Progress** :  Wrote a medium article about working with audio input: Common audio features. Still exploring audio signal processing for musical applications
 
 **Thoughts** : I am learning more new things by trying to blog about it. 
 
