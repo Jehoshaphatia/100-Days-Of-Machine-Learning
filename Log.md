@@ -248,7 +248,7 @@
 
 **Thoughts** : I am learning more new things by trying to blog about it. 
 
-**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-030-86c07bfba9a)
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-031-8610594dcb80)
 
 
 
