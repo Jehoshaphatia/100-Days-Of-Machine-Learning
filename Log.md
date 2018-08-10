@@ -250,6 +250,14 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-031-8610594dcb80)
 
+## Day 032 : August 10 , 2018
+
+**Today's Progress** :  Wrote a medium article about working with audio input: Common audio features, analysis window. Still exploring audio signal processing for musical applications
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-031-8610594dcb80)
+
 
 
 
