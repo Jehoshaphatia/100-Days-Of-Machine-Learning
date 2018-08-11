@@ -260,7 +260,7 @@
 
 ## Day 033 : August 10 , 2018
 
-**Today's Progress** :  Wrote a medium article about working with audio input: Common audio features: Root Mean Square(RMS). Continued with the exploration of audio signal processing for musical applications.
+**Today's Progress** :  Wrote a medium article about a relatively simple audio feature that uses the Fast Fourier transform (FFT). Continued with the exploration of audio signal processing for musical applications.
 
 **Thoughts** : I am learning new things day by day. 
 
