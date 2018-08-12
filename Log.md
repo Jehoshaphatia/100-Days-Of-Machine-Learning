@@ -266,7 +266,13 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-033-31afff7e6e99)
 
+## Day 033 : August 10 , 2018
 
+**Today's Progress** :  Wrote a medium article about a relatively simple audio feature that uses the Fast Fourier transform (FFT). Continued with the exploration of audio signal processing for musical applications.
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-033-31afff7e6e99)
 
 
 
