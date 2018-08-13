@@ -274,6 +274,14 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-034-985f64a73c0e)
 
+## Day 035 : August 13 , 2018
+
+**Today's Progress** :  Wrote a medium article about working with audio input: Common audio features: Constant Q Transform. Continued with the exploration of audio signal processing for musical applications.
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-035-122e1cb9c3f9)
+
 
 
 
