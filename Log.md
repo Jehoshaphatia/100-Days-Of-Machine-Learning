@@ -244,7 +244,7 @@
 
 ## Day 031 : August 9 , 2018
 
-**Today's Progress** :  Wrote a medium article about working with audio input: Common audio features, analysis window. Still exploring audio signal processing for musical applications
+**Today's Progress** :  Wrote a medium article about working with audio input: Common audio features, analysis window. Still exploring audio signal processing for musical applications.
 
 **Thoughts** : I am learning new things day by day. 
 
@@ -284,7 +284,7 @@
 
 ## Day 036 : August 14 , 2018
 
-**Today's Progress** :  Wrote a medium article about working with audio input: Common audio features: Constant Q Transform. Continued with the exploration of audio signal processing for musical applications.
+**Today's Progress** :  Wrote a medium article about working with audio input: Common audio features: Chromagram. exploring audio signal processing for musical applications.
 
 **Thoughts** : I am learning new things day by day. 
 
