@@ -300,7 +300,7 @@
 
 ## Day 038 : August 15 , 2018
 
-**Today's Progress** :  Wrote a medium article about working with audio input: Common audio features:Mel-frequency cepstral coefficients. Exploring audio signal processing for musical applications.
+**Today's Progress** :  Wrote a medium article about video features: Color Tracking. Exploring audio signal processing for musical applications.
 
 **Thoughts** : I am learning new things day by day. 
 
