@@ -308,7 +308,7 @@
 
 ## Day 039 : August 17 , 2018
 
-**Today's Progress** :  Wrote a medium article about video features: Color Tracking. Exploring audio signal processing for musical applications.
+**Today's Progress** :  Wrote a medium article about video features: Fiducials. Exploring audio signal processing for musical applications.
 
 **Thoughts** : I am learning new things day by day. 
 
