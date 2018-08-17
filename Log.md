@@ -298,13 +298,22 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-037-91e9559fca15)
 
-## Day 038 : August 15 , 2018
+## Day 038 : August 16 , 2018
 
 **Today's Progress** :  Wrote a medium article about video features: Color Tracking. Exploring audio signal processing for musical applications.
 
 **Thoughts** : I am learning new things day by day. 
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-038-342845ad8217)
+
+## Day 039 : August 17 , 2018
+
+**Today's Progress** :  Wrote a medium article about video features: Color Tracking. Exploring audio signal processing for musical applications.
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-038-342845ad8217)
+
 
 
 
