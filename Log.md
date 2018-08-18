@@ -316,7 +316,7 @@
 
 ## Day 040 : August 18, 2018
 
-**Today's Progress** :  Wrote a medium article about video features: Haar Cascades. Created a Regression Model in Azure Machine Learning Studio. 
+**Today's Progress** :  Wrote a medium article about video features: Haar Cascades. Exploring audio signal processing for musical applications
 
 **Thoughts** : I am learning new things day by day. 
 
