@@ -314,6 +314,14 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-039-ee28a7d589dc)
 
+## Day 040 : August 18, 2018
+
+**Today's Progress** :  Wrote a medium article about video features: Fiducials. Created a Regression Model in Azure Machine Learning Studio. 
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-039-ee28a7d589dc)
+
 
 
 
