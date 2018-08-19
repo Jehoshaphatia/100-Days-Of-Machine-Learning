@@ -322,6 +322,14 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-040-c2d5156dde93)
 
+## Day 041 : August 19, 2018
+
+**Today's Progress** :  Wrote a medium article about video features: Haar Cascades. Exploring audio signal processing for musical applications
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-040-c2d5156dde93)
+
 
 
 
