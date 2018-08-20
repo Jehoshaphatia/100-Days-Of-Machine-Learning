@@ -330,6 +330,14 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-040-c2d5156dde93)
 
+## Day 042 : August 20, 2018
+
+**Today's Progress** :  Wrote a medium article about video features: compare features from one frame to the next. Exploring audio signal processing for musical applications
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-040-c2d5156dde93)
+
 
 
 
