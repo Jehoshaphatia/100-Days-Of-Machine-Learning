@@ -332,7 +332,7 @@
 
 ## Day 042 : August 20, 2018
 
-**Today's Progress** :  Wrote a medium article about video features: compare features from one frame to the next. Exploring audio signal processing for musical applications
+**Today's Progress** :  Wrote a medium article about video features: Optical Flow. Exploring audio signal processing for musical applications
 
 **Thoughts** : I am learning new things day by day. 
 
