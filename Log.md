@@ -340,11 +340,11 @@
 
 ## Day 043 : August 21, 2018
 
-**Today's Progress** :  Wrote a medium article about Features: How fast to send them? Exploring audio signal processing for musical applications
+**Today's Progress** :  Wrote a medium article about Features: How fast to send them. Exploring audio signal processing for musical applications
 
 **Thoughts** : I am learning new things day by day. 
 
-**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-042-cf92bd005889)
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-043-fa06a74fc8cd)
 
 
 
