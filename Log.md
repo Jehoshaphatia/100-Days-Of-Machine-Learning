@@ -340,7 +340,7 @@
 
 ## Day 043 : August 21, 2018
 
-**Today's Progress** :  Wrote a medium article about video features: Optical Flow. Exploring audio signal processing for musical applications
+**Today's Progress** :  Wrote a medium article about Features: How fast to send them? Exploring audio signal processing for musical applications
 
 **Thoughts** : I am learning new things day by day. 
 
