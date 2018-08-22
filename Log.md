@@ -346,9 +346,9 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-043-fa06a74fc8cd)
 
-## Day 043 : August 21, 2018
+## Day 043 : August 22, 2018
 
-**Today's Progress** :  Wrote a medium article about Features: How fast to send them. Exploring audio signal processing for musical applications
+**Today's Progress** :  Still exploring audio signal processing for musical applications, also wrote a medium article that brought Features: How fast to send them to an end.
 
 **Thoughts** : I am learning new things day by day. 
 
