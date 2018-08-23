@@ -356,11 +356,11 @@
 
 ## Day 045 : August 23, 2018
 
-**Today's Progress** :  Still exploring audio signal processing for musical applications, also wrote a medium article that brought Features: How fast to send them to an end.
+**Today's Progress** :  Still exploring audio signal processing for musical applications, also wrote a medium article about working with time.
 
 **Thoughts** : I am learning new things day by day. 
 
-**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-044-f65fdf65edac) 
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-045-fa5ad8f19b6) 
 
 
 
