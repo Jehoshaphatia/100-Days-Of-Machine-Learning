@@ -364,7 +364,7 @@
 
 ## Day 046 : August 24, 2018
 
-**Today's Progress** :  Still exploring audio signal processing for musical applications, also wrote a medium article about working with time.
+**Today's Progress** :  Started studying the book "Artiﬁcial Intelligence and Games", also wrote a medium article about Working with time, simple approach: Features that encode change.
 
 **Thoughts** : I am learning new things day by day. 
 
