@@ -372,7 +372,7 @@
 
 ## Day 047 : August 25, 2018
 
-**Today's Progress** :  Started studying the book "Artiﬁcial Intelligence and Games", also wrote a medium article about Working with time, simple approach: Features that encode change.
+**Today's Progress** :  Started studying the first chapter of the book "Artiﬁcial Intelligence and Games", also wrote a medium article about Working with time, Motivating other modeling approaches.
 
 **Thoughts** : I am learning new things day by day. 
 
