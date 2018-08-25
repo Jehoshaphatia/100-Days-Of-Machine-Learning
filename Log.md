@@ -370,6 +370,13 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-046-f51d7300ff3d) 
 
+## Day 047 : August 25, 2018
+
+**Today's Progress** :  Started studying the book "Artiﬁcial Intelligence and Games", also wrote a medium article about Working with time, simple approach: Features that encode change.
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-046-f51d7300ff3d) 
 
 
 
