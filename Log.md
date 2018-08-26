@@ -380,7 +380,7 @@
 
 ## Day 048 : August 26, 2018
 
-**Today's Progress** :  Started studying the first chapter of the book "Artiﬁcial Intelligence and Games", also wrote a medium article about Working with time, Motivating other modelling approaches.
+**Today's Progress** :  Still studying the first chapter of the book "Artiﬁcial Intelligence and Games", also wrote a medium article about Working with time, Motivating other modelling approaches continued.
 
 **Thoughts** : I am learning new things day by day. 
 
