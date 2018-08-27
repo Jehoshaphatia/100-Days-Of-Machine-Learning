@@ -384,7 +384,7 @@
 
 **Thoughts** : I am learning new things day by day. 
 
-**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-047-90bfee957eaf) 
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-048-5d3027f5fea0) 
 
 ## Day 049 : August 27, 2018
 
