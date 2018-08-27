@@ -386,6 +386,14 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-047-90bfee957eaf) 
 
+## Day 049 : August 27, 2018
+
+**Today's Progress** :  Still studying the first chapter of the book "Artiﬁcial Intelligence and Games", also wrote a medium article about Working with time, Motivating other modelling approaches continued.
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-047-90bfee957eaf) 
+
 
 
 
