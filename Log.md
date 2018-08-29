@@ -396,7 +396,7 @@
 
 ## Day 050 : August 28, 2018
 
-**Today's Progress** :  Almost done with the first chapter of the book "Artiﬁcial Intelligence and Games", also wrote a medium article about Working with time, Dynamic Time Warping.
+**Today's Progress** :  Done with the first chapter of the book "Artiﬁcial Intelligence and Games", also wrote a medium article about Working with time, Dynamic Time Warping.  
 
 **Thoughts** : I am learning new things day by day. 
 
