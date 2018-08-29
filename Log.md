@@ -402,6 +402,14 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-050-2e2c3aa4e28) 
 
+## Day 051 : August 29, 2018
+
+**Today's Progress** :  Done with the first chapter of the book "Artiﬁcial Intelligence and Games", also wrote a medium article about Working with time, Dynamic Time Warping.  
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-050-2e2c3aa4e28)
+
 
 
 
