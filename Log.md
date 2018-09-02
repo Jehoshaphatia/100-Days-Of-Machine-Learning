@@ -434,6 +434,13 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-054-a7b30a8ceb54)
 
+## Day 054 : September 1, 2018
+
+**Today's Progress** :  Wrote a medium article about Working with time, looking deeper into how Dynamic Time Warping Works and also continued with the study of the second chapter of the book "Artiﬁcial Intelligence and Games".
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-054-a7b30a8ceb54)
 
 
 
