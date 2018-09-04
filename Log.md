@@ -444,11 +444,19 @@
 
 ## Day 056 : September 3, 2018
 
-**Today's Progress** :  Wrote a medium article about Working with time, solving an optimization problem with dynamic time warping. Also continued with the study of the second chapter of the book "Artiﬁcial Intelligence and Games".
+**Today's Progress** :  Wrote a medium article about Working with time, gesture spotting with dynamic time warping. Also continued with the study of the second chapter of the book "Artiﬁcial Intelligence and Games".
 
 **Thoughts** : I am learning new things day by day. 
 
-**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-055-500bd2dc1ee8)
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-056-8d3b336d9e08)
+
+## Day 057 : September 4, 2018
+
+**Today's Progress** :  Wrote a medium article about Working with time, dynamic time warping for music and speech analysis. Also continued with the study of the second chapter of the book "Artiﬁcial Intelligence and Games". 
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-056-8d3b336d9e08)
 
 
 
