@@ -466,5 +466,11 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-058-8ee4c8a38a6c)
 
+## Day 058 : September 5, 2018
 
+**Today's Progress** :  I continued with the study of the second chapter of the book "Artiﬁcial Intelligence and Games". Also wrote a medium article about Working with time, concluding on Hidden Markov Models(HMMs).
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-058-8ee4c8a38a6c)
 
