@@ -481,3 +481,11 @@
 **Thoughts** : I am learning new things day by day. 
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-060-820495f524ab)
+
+## Day 061 : September 8, 2018
+
+**Today's Progress** :  I continued with the study of the second chapter of the book "Artiﬁcial Intelligence and Games". Also wrote a medium article about Working with time, tradeoffs of classifiers other than k nearest neighbor(kNN)
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-060-820495f524ab)
