@@ -484,7 +484,7 @@
 
 ## Day 061 : September 8, 2018
 
-**Today's Progress** :  I continued with the study of the second chapter of the book "Artiﬁcial Intelligence and Games". Also wrote a medium article about Working with time, tradeoffs of classifiers other than k nearest neighbor(kNN)
+**Today's Progress** :  I continued with the study of the second chapter of the book "Artiﬁcial Intelligence and Games". Also wrote a medium article about using Wekinator to control a drum machine with a webcam.
 
 **Thoughts** : I am learning new things day by day. 
 
