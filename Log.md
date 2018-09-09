@@ -490,9 +490,9 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-061-ea21fd143be5)
 
-## Day 061 : September 8, 2018
+## Day 062 : September 9, 2018
 
-**Today's Progress** :  I continued with the study of the second chapter of the book "Artiﬁcial Intelligence and Games". Also wrote a medium article about using Wekinator to control a drum machine with a webcam.
+**Today's Progress** :  I continued with the study of the second chapter of the book "Artiﬁcial Intelligence and Games". Also wrote a medium article about Dynamic time warping, a summary.
 
 **Thoughts** : I am learning new things day by day. 
 
