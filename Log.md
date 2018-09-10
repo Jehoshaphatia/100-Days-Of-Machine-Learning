@@ -497,3 +497,13 @@
 **Thoughts** : I am learning new things day by day. 
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-062-6ece0094eafb)
+
+## Day 063 : September 10, 2018
+
+**Today's Progress** :  Wrote a medium article about dynamic time warping, a summary. I also continued with the study of the second chapter of the book "Artiﬁcial Intelligence and Games".
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-062-6ece0094eafb)
+
+Wrote a medium article about working with time, Gesture Follower. I also continued with the study of the second chapter of the book "Artiﬁcial Intelligence and Games"
