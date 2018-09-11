@@ -506,3 +506,10 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-063-f1ae8384fc9f )
 
+## Day 064 : September 11, 2018
+
+**Today's Progress** :  Wrote a medium article about working with time, Gesture Follower. I also continued with the study of the second chapter of the book "Artiﬁcial Intelligence and Games".
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-063-f1ae8384fc9f )
