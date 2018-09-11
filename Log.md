@@ -508,7 +508,7 @@
 
 ## Day 064 : September 11, 2018
 
-**Today's Progress** :  Wrote a medium article about working with time, Gesture Follower. I also continued with the study of the second chapter of the book "Artiﬁcial Intelligence and Games".
+**Today's Progress** :  Studying School of AI's "Move 37" course,  I also continued with the study of the second chapter of the book "Artiﬁcial Intelligence and Games" and Wrote a medium article about working with time, Gesture Follower.
 
 **Thoughts** : I am learning new things day by day. 
 
