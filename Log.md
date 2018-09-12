@@ -508,8 +508,16 @@
 
 ## Day 064 : September 11, 2018
 
-**Today's Progress** :  Studying School of AI's "Move 37" course,  I also continued with the study of the second chapter of the book "Artiﬁcial Intelligence and Games" and Wrote a medium article about working with time, Gesture Follower.
+**Today's Progress** :  Studying School of AI's "Move 37" course,  I also continued with the study of the second chapter of the book "Artiﬁcial Intelligence and Games" and wrote a medium article about working with time, how Gesture Follower works. 
 
 **Thoughts** : I am learning new things day by day. 
 
-**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-063-f1ae8384fc9f )
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-064-cec6609014e4 )
+
+## Day 065 : September 12, 2018
+
+**Today's Progress** :  Studying School of AI's "Move 37" course,  I also continued with the study of the second chapter of the book "Artiﬁcial Intelligence and Games" and wrote a medium article about working with time, Gesture Variation Follower. 
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-064-cec6609014e4 )
