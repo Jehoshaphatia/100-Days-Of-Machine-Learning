@@ -529,3 +529,11 @@
 **Thoughts** : I am learning new things day by day. 
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-066-e3e6d24448d1 )
+
+## Day 067 : September 14, 2018
+
+**Today's Progress** :  Studying School of AI's "Move 37" course, and wrote a medium article about working with time, How Gesture Variation Follower works continued. I also continued with the study of the second chapter of the book "Artiﬁcial Intelligence and Games"  
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-067-6ff0e2a9155c )
