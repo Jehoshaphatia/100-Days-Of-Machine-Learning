@@ -540,7 +540,7 @@
 
 ## Day 068 : September 15, 2018
 
-**Today's Progress** :  Studying School of AI's "Move 37" course, and wrote a medium article about working with time, How Gesture Variation Follower works continued. I also continued with the study of the second chapter of the book "Artiﬁcial Intelligence and Games"  
+**Today's Progress** :  Studying School of AI's "Move 37" course, and wrote a medium article about working with time, How Gesture Variation Follower works continued.  
 
 **Thoughts** : I am learning new things day by day. 
 
