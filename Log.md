@@ -572,7 +572,7 @@
 
 ## Day 072 : September 19, 2018
 
-**Today's Progress** :  Studying School of AI's "Move 37" course, and wrote a medium article about working with time, what the models we have seen have in common continued.  
+**Today's Progress** :  Studying School of AI's "Move 37" course, and wrote a medium article about designing custom algorithms for music.
 
 **Thoughts** : I am learning new things day by day. 
 
