@@ -569,3 +569,11 @@
 **Thoughts** : I am learning new things day by day. 
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-071-bcbbdd8eccd4 )
+
+## Day 072 : September 19, 2018
+
+**Today's Progress** :  Studying School of AI's "Move 37" course, and wrote a medium article about working with time, what the models we have seen have in common continued.  
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-071-bcbbdd8eccd4 )
