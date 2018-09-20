@@ -576,4 +576,12 @@
 
 **Thoughts** : I am learning new things day by day. 
 
-**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-071-bcbbdd8eccd4 )
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-072-be1fce1942 )
+
+## Day 073 : September 20, 2018
+
+**Today's Progress** :  Studying School of AI's "Move 37" course, and wrote a medium article about designing custom algorithms for music.
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-072-be1fce1942 )
