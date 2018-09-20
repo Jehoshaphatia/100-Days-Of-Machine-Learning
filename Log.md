@@ -580,7 +580,7 @@
 
 ## Day 073 : September 20, 2018
 
-**Today's Progress** :  Studying School of AI's "Move 37" course, and wrote a medium article about designing custom algorithms for music.
+**Today's Progress** :  Studying School of AI's "Move 37" course, and wrote a medium article about designing custom algorithms for music part two.
 
 **Thoughts** : I am learning new things day by day. 
 
