@@ -596,7 +596,7 @@
 
 ## Day 075 : September 22, 2018
 
-**Today's Progress** :  Studying School of AI's "Move 37" course, and wrote a medium article about designing custom algorithms for music part three.
+**Today's Progress** :  Studying the second chapter of the book "Artiﬁcial Intelligence and Games" I also wrote a medium article about sound waves.
 
 **Thoughts** : I am learning new things day by day. 
 
