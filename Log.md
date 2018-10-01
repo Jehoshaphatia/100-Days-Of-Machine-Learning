@@ -612,7 +612,7 @@
 
 ## Day 077 : October 1, 2018
 
-**Today's Progress** :  Started studying the third chapter of the book "Artiﬁcial Intelligence and Games" I also wrote a medium article about sound waves.
+**Today's Progress** : Studying the third chapter of the book "Artiﬁcial Intelligence and Games" I also wrote a medium article about sound waves Frequencies.
 
 **Thoughts** : I am learning new things day by day. 
 
