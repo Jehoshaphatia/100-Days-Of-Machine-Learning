@@ -618,3 +618,10 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-077-9e02f16318b7)
 
+## Day 078 : October 2, 2018
+
+**Today's Progress** : Studying the third chapter of the book "Artiﬁcial Intelligence and Games" I also wrote a medium article about sound waves Frequencies.
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-077-9e02f16318b7)
