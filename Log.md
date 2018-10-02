@@ -620,7 +620,7 @@
 
 ## Day 078 : October 2, 2018
 
-**Today's Progress** : Studying the third chapter of the book "Artiﬁcial Intelligence and Games" I also wrote a medium article about sound waves Frequencies.
+**Today's Progress** : Studied how to use the Unity platform to create and leverage simulation environments based on a reference paper Unity: A General Platform for Intelligent Agents. Studied the third chapter of the book "Artiﬁcial Intelligence and Games". I also wrote a medium article about sound waves, phase.
 
 **Thoughts** : I am learning new things day by day. 
 
