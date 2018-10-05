@@ -641,3 +641,12 @@
 **Thoughts** : I am learning new things day by day. 
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-080-932e751d577b)
+
+## Day 081 : October 5, 2018
+
+**Today's Progress** : Studied Reinforcement Learning with Q-Learning and wrote a medium article about loudness part three(3).
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-080-932e751d577b)
+
