@@ -652,7 +652,7 @@
 
 ## Day 082 : October 6, 2018
 
-**Today's Progress** : Studied Reinforcement Learning with Q-Learning and wrote a medium article aboutharmonic series
+**Today's Progress** : Studying School of AI's "Move 37" course and wrote a medium article about harmonic series
 
 **Thoughts** : I am learning new things day by day. 
 
