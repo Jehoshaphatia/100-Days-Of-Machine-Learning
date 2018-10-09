@@ -668,7 +668,7 @@
 
 ## Day 084 : October 9, 2018
 
-**Today's Progress** : Studying School of AI's "Move 37" course and wrote a medium article about Fletcher-Munson Loudness Curves.
+**Today's Progress** : Studying School of AI's "Move 37" course and wrote a medium article about how we describe  two sounds that actually have the exact same pitch and the exact same loudness but they sound really different from each other.
 
 **Thoughts** : I am learning new things day by day. 
 
