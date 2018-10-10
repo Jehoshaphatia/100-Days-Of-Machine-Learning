@@ -674,5 +674,14 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-084-ed7849344ca0)
 
+## Day 085 : October 10, 2018
+
+**Today's Progress** : Studying School of AI's "Move 37" course and wrote a medium article about Fourier Theorem.
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-084-ed7849344ca0)
 
 
+
+Fourier Theorem
