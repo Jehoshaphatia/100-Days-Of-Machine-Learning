@@ -676,7 +676,7 @@
 
 ## Day 085 : October 10, 2018
 
-**Today's Progress** : Studying School of AI's "Move 37" course and wrote a medium article about Fourier Theorem.
+**Today's Progress** : Studid feature learning, also wrote a medium article about Fourier Theorem.
 
 **Thoughts** : I am learning new things day by day. 
 
