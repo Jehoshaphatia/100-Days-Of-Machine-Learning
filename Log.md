@@ -681,3 +681,11 @@
 **Thoughts** : I am learning new things day by day. 
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-085-75d16b03aa8f)
+
+## Day 086 : October 11, 2018
+
+**Today's Progress** : Studied feature learning, also wrote a medium article about Fourier Theorem
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-085-75d16b03aa8f)
