@@ -684,7 +684,7 @@
 
 ## Day 086 : October 11, 2018
 
-**Today's Progress** : Studied feature learning, also wrote a medium article about Fourier Theorem
+**Today's Progress** : Studied more about feature learning, also wrote a medium article about Envelope And Spectrogram
 
 **Thoughts** : I am learning new things day by day. 
 
