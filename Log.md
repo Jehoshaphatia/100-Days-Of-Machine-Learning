@@ -692,7 +692,7 @@
 
 ## Day 087 : October 12, 2018
 
-**Today's Progress** : Studied more about feature learning, also wrote a medium article about Envelope And Spectrogram
+**Today's Progress** : Studied more about feature learning, also wrote a medium article about the differences between analog and digital sound and different challenges that come up in each media
 
 **Thoughts** : I am learning new things day by day. 
 
