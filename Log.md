@@ -689,3 +689,11 @@
 **Thoughts** : I am learning new things day by day. 
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-086-c93f8d240910)
+
+## Day 087 : October 12, 2018
+
+**Today's Progress** : Studied more about feature learning, also wrote a medium article about Envelope And Spectrogram
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-086-c93f8d240910)
