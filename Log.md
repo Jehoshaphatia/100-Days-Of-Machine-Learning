@@ -698,7 +698,7 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-087-fa09c24823d5)
 
-## Day 088 : October 12, 2018
+## Day 088 : October 14, 2018
 
 **Today's Progress** : Studied more about feature learning, also wrote a medium article about the differences between analog and digital sound and different challenges that come up in each media.
 
