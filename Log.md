@@ -708,7 +708,7 @@
 
 ## Day 089 : October 15, 2018
 
-**Today's Progress** : Studied more about feature learning, also wrote a medium article which served as part two of the differences between analog and digital sound
+**Today's Progress** : Studied more about feature learning, also wrote a medium article about copying analog and digital.
 
 **Thoughts** : I am learning new things day by day. 
 
