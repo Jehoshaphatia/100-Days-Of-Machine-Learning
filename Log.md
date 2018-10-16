@@ -708,7 +708,7 @@
 
 ## Day 089 : October 15, 2018
 
-**Today's Progress** : Studied more about feature learning, also wrote a medium article about copying analog and digital.
+**Today's Progress** : Learned dexterous manipulation with reinforcement learning, also wrote a medium article about copying analog and digital.
 
 **Thoughts** : I am learning new things day by day. 
 
