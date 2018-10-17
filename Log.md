@@ -706,10 +706,21 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-088-fd81eb10866b)
 
-## Day 089 : October 15, 2018
+## Day 089 : October 16, 2018
 
 **Today's Progress** : Learned dexterous manipulation with reinforcement learning, also wrote a medium article about copying analog and digital.
 
 **Thoughts** : I am learning new things day by day. 
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-089-2409da6cc09a)
+
+## Day 090 : October 17, 2018
+
+**Today's Progress** : Learned dexterous manipulation with reinforcement learning, also wrote a medium article about copying analog and digital.
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-089-2409da6cc09a)
+
+
+it a little bit more formally what a sampling rate is 
