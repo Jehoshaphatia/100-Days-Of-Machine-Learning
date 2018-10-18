@@ -716,7 +716,15 @@
 
 ## Day 090 : October 17, 2018
 
-**Today's Progress** : Learned dexterous manipulation with reinforcement learning, also wrote a medium article explaining a little bit more formally what a sampling rate is and how we determine what an appropriate sampling rate is.
+**Today's Progress** : Learned about Human-Centered Autonomous Vehicle Systems: Principles of Effective Shared Autonomy, also wrote a medium article explaining a little bit more formally what a sampling rate is and how we determine what an appropriate sampling rate is.
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-090-bab8d793ff96)
+
+## Day 091 : October 18, 2018
+
+**Today's Progress** : Learned about Human-Centered Autonomous Vehicle Systems: Principles of Effective Shared Autonomy, also wrote a medium article explaining a little bit more formally what a sampling rate is and how we determine what an appropriate sampling rate is.
 
 **Thoughts** : I am learning new things day by day. 
 
