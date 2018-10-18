@@ -716,7 +716,7 @@
 
 ## Day 090 : October 17, 2018
 
-**Today's Progress** : Learned about Human-Centered Autonomous Vehicle Systems: Principles of Effective Shared Autonomy, also wrote a medium article explaining a little bit more formally what a sampling rate is and how we determine what an appropriate sampling rate is.
+**Today's Progress** : Read the paper Human-Centered Autonomous Vehicle Systems: Principles of Effective Shared Autonomy, also wrote a medium article explaining a little bit more formally what a sampling rate is and how we determine what an appropriate sampling rate is.
 
 **Thoughts** : I am learning new things day by day. 
 
@@ -724,7 +724,7 @@
 
 ## Day 091 : October 18, 2018
 
-**Today's Progress** : Learned about Human-Centered Autonomous Vehicle Systems: Principles of Effective Shared Autonomy, also wrote a medium article explaining a little bit more formally what a sampling rate is and how we determine what an appropriate sampling rate is.
+**Today's Progress** : Read the paper, Arguing Machines: Human Supervision of Black Box AI Systems That Make Life-Critical Decisions also wrote a medium article explaining Nyquist Theorem.
 
 **Thoughts** : I am learning new things day by day. 
 
