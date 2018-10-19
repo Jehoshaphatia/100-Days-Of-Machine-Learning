@@ -732,7 +732,7 @@
 
 ## Day 092 : October 19, 2018
 
-**Today's Progress** : Read the paper, Arguing Machines: Human Supervision of Black Box AI Systems That Make Life-Critical Decisions also wrote a medium article explaining Nyquist Theorem.
+**Today's Progress** : Read the paper, Arguing Machines: Human Supervision of Black Box AI Systems That Make Life-Critical Decisions also wrote a medium talking briefly about what happens if our sampling rate is too low.
 
 **Thoughts** : I am learning new things day by day. 
 
