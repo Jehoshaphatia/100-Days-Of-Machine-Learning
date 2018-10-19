@@ -730,4 +730,10 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-091-ad227e5c9f0)
 
+## Day 092 : October 19, 2018
 
+**Today's Progress** : Read the paper, Arguing Machines: Human Supervision of Black Box AI Systems That Make Life-Critical Decisions also wrote a medium article explaining Nyquist Theorem.
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-091-ad227e5c9f0)
