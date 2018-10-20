@@ -740,8 +740,8 @@
 
 ## Day 093 : October 20, 2018
 
-**Today's Progress** : Studied solving sparse-reward tasks with Curiosity also wrote a medium article about how many binary digits. What our bit width needs to be to represent each amplitude sample that we record.
+**Today's Progress** : Studied the third chapter of the book "Artiﬁcial Intelligence and Games" then wrote a medium article about how many binary digits. What our bit width needs to be to represent each amplitude sample that we record.
 
 **Thoughts** : I am learning new things day by day. 
 
-**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-092-f4efd1365748)
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-093-3e52b7a25cfe)
