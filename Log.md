@@ -748,8 +748,8 @@
 
 ## Day 094 : October 21, 2018
 
-**Today's Progress** : Studied the third chapter of the book "Artiﬁcial Intelligence and Games" then wrote a medium article about how many binary digits. What our bit width needs to be to represent each amplitude sample that we record.
+**Today's Progress** : Continued with the study of  the third chapter of the book "Artiﬁcial Intelligence and Games" then wrote a medium article addressing the question of how many channels we need to record sound in different scenarios to represent the location of sound in space. 
 
 **Thoughts** : I am learning new things day by day. 
 
-**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-093-3e52b7a25cfe)
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-094-161921734728)
