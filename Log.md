@@ -753,3 +753,13 @@
 **Thoughts** : I am learning new things day by day. 
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-094-161921734728)
+
+## Day 095 : October 22, 2018
+
+**Today's Progress** : Continued with the study of  the third chapter of the book "Artiﬁcial Intelligence and Games" then wrote a medium article addressing the question of how many channels we need to record sound in different scenarios to represent the location of sound in space. 
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-094-161921734728)
+
+HRFT (head-related transfer function)
