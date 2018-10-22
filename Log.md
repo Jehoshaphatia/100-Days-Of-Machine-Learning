@@ -756,7 +756,7 @@
 
 ## Day 095 : October 22, 2018
 
-**Today's Progress** : Continued with the study of  the third chapter of the book "Artiﬁcial Intelligence and Games" then wrote a medium article about HRFT (head-related transfer function).
+**Today's Progress** : Continued with the study of  the third chapter of the book "Artiﬁcial Intelligence and Games" then wrote a medium article about HRTF (head-related transfer function).
 
 **Thoughts** : I am learning new things day by day. 
 
