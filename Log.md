@@ -762,4 +762,3 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-094-161921734728)
 
-HRFT (head-related transfer function)
