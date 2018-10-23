@@ -764,7 +764,7 @@
 
 ## Day 096 : October 23, 2018
 
-**Today's Progress** : Continued with the study of  the third chapter of the book "Artiﬁcial Intelligence and Games" then wrote a medium article about HRTF (head-related transfer function).
+**Today's Progress** : Completed the third chapter of the book "Artiﬁcial Intelligence and Games" then wrote a medium article about binaural sound.
 
 **Thoughts** : I am learning new things day by day. 
 
