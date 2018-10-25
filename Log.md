@@ -780,7 +780,7 @@
 
 ## Day 098 : October 25, 2018
 
-**Today's Progress** : Continued with the study the fourth chapter of the book "Artiﬁcial Intelligence and Games" then wrote a medium article about Digital Audio Storage part two
+**Today's Progress** : Continued with the study of the fourth chapter of the book "Artiﬁcial Intelligence and Games" then wrote a medium article about Digital Audio Storage part two
 
 **Thoughts** : I am learning new things day by day. 
 
