@@ -778,5 +778,14 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-097-d8ed558ce652)
 
+## Day 098 : October 25, 2018
+
+**Today's Progress** : Started studying the fourth chapter of the book "Artiﬁcial Intelligence and Games" then wrote a medium article about Digital Audio Storage 
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-097-d8ed558ce652)
+
+
 
 
