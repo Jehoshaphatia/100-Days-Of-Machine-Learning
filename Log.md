@@ -784,7 +784,7 @@
 
 **Thoughts** : I am learning new things day by day. 
 
-**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-097-d8ed558ce652)
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-098-bdc089bb9e30)
 
 
 
