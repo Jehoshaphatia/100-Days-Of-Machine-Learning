@@ -786,6 +786,14 @@
 
 **Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-098-bdc089bb9e30)
 
+## Day 099 : October 26, 2018
+
+**Today's Progress** : Continued with the study of the fourth chapter of the book "Artiﬁcial Intelligence and Games" then wrote a medium article about Frequency Domain Analysis
+
+**Thoughts** : I am learning new things day by day. 
+
+**Link of Work:**   [Article](https://medium.com/@jehoshaphatia/100-days-of-ml-code-day-098-bdc089bb9e30)
+
 
 
 
